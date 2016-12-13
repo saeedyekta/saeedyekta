@@ -243,7 +243,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
-    An Advanced Anti Spam Bot Forked On Saeedyekta
+    An Advanced Anti Spam Bot Forked On saeedyekta
     
     Develpoed By:
     @sina7sk
